@@ -1,4 +1,4 @@
-![snake gif](https://github.com/stoneCAU/stoneCAU/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/StoneCAU/StoneCAU/blob/output/github-contribution-grid-snake.svg)
 ## Hi there 👋
 
 <!--
