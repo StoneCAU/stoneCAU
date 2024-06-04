@@ -1,5 +1,7 @@
 ![snake gif](https://github.com/StoneCAU/StoneCAU/blob/output/github-contribution-grid-snake.svg)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneCAU&show_icons=true&theme=dracula)
+
 ## 😄😄😄 행복한 코딩되세요 😄😄😄
 
 <!--
