@@ -1,6 +1,6 @@
 ![snake gif](https://github.com/StoneCAU/StoneCAU/blob/output/github-contribution-grid-snake.svg)
 
-## Hi there 👋
+## 😄😄😄 행복한 코딩되세요 😄😄😄
 
 <!--
 **StoneCAU/stoneCAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
